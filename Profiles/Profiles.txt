@@ -12,13 +12,6 @@ Trailhead Profile:https://www.salesforce.com/trailblazer/sowmyakapuveedhi
 Developer Org Username:sowmyakapuveedhi@gdcproject.com
 Developer Org Password:Gayatri@123
 Position:Team Member
-Name of the Student:Jalla Neelima
-Learning Track:Developer
-Project Name:Build An Employee Travel Approval Application For Corporates - (DEV)
-Trailhead Profile:https://www.salesforce.com/trailblazer/jallaneelima
-Developer Org Username:jalla.neelima2004@gdcproject.com
-Developer Org Password:Gayatri@123
-Position:Team Member
 Name of the Student:Ambarapu MubeenaBanu
 Learning Track:Developer
 Project Name:Build An Employee Travel Approval Application For Corporates - (DEV)
@@ -30,6 +23,6 @@ Name of the Student:Syed Amreen Banu
 Learning Track:Developer
 Project Name:Build An Employee Travel Approval Application For Corporates - (DEV)
 Trailhead Profile:https://www.salesforce.com/trailblazer/amreenbanusyed
-Developer Org Username:syedamreenbanu@gdcprojecttirupati.com
+Developer Org Username:syedamreen004@gdcprojecttirupati.com
 Developer Org Password:Gayatri@123
 Position:Team Member
