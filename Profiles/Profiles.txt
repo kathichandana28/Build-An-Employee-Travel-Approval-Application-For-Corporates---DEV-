@@ -12,7 +12,7 @@ Trailhead Profile:https://www.salesforce.com/trailblazer/sowmyakapuveedhi
 Developer Org Username:sowmyakapuveedhi@gdcproject.com
 Developer Org Password:Gayatri@123
 Position:Team Member
-Name of the Student:Ambarapu MubeenaBanu
+Name of the Student:Ambarapu Mubeena Banu
 Learning Track:Developer
 Project Name:Build An Employee Travel Approval Application For Corporates - (DEV)
 Trailhead Profile:https://www.salesforce.com/trailblazer/ambarapumubeenabanu
